@@ -20,4 +20,4 @@ print $array[4]." ";
 print $array[5]." ";
 print $array[6]." ";
 
-print "\n@array";
+print "@array";
